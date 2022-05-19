@@ -6,7 +6,7 @@ function App() {
   const os = ["Androied", "Blackberry", "iphone", "Windows phone"];
   const brands = [
     { name: "Samsung", type: "square" },
-    { name: "Htc", type: "square" },
+    { name: "HTC", type: "square" },
     { name: "Micromax", type: "disc" },
     { name: "Apple", type: "circle" },
   ];
