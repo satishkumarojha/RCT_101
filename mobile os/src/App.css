@@ -1,0 +1,10 @@
+.App{
+  margin-left: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.square{
+  list-style-type: square;
+}
+.circle{
+  list-style-type:circle;
+}
