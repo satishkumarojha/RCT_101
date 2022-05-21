@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { TodoList } from './TodoList';
 import { v4 as uuidv4 } from 'uuid';
+import Styles from './Todo.module.css';
 export const Todo = () => {
     const [task,setTask] = useState("");
     const [tasklist,setTaskList] = useState([]);
@@ -15,7 +16,8 @@ export const Todo = () => {
         else{
             setTaskList([...tasklist,{
                 id:uuidv4(),
-                tasks:task
+                tasks:task,
+                status:false
             }]);
             setTask("");
         }
@@ -23,14 +25,19 @@ export const Todo = () => {
         
     }
     const del = (val)=>{
-        setTaskList([...tasklist.filter((ts)=>ts.id!=val)]);
+        setTaskList([...tasklist.map((e)=>{
+            return (e.id===val?{...e,status:!e.status}:e)
+        })]);
     }
   return (
-      
-    <div>
-        <input type="text" placeholder='write something' onChange={handleChange} value={task} />
-        <button disabled={!task} onClick={handleClick}>+</button>
-        <TodoList list={tasklist} del={del}/>
+    <>
+    <div className={Styles.todo_container}>
+        <input className={Styles.input} type="text" placeholder='write something' onChange={handleChange} value={task} />
+        <button className={Styles.btn} disabled={!task} onClick={handleClick}>+</button>
     </div>
+    <TodoList list={tasklist} del={del}/>
+    </>
+        
+     
   )
 }

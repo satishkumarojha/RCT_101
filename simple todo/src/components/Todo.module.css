@@ -1,0 +1,28 @@
+.todo_container{
+    width: 40%;
+    /* border: 1px solid green; */
+    margin: auto;
+    background-color: #CECECE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1% 2%;
+}
+.input{
+    background-color: #FEFEFE;
+    outline: none;
+    border: 1px solid #FEFEFE;
+    margin-right: 5%;
+    height: 45px;
+    width: 85%;
+    border-radius: 11px;
+    padding-left: 20px;
+}
+.btn{
+    background-color: #FEFEFE;
+    color: black;
+    border: 1px solid #FEFEFE;
+    width: 17%;
+    height: 45px;
+    border-radius: 11px;
+}
