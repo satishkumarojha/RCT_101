@@ -1,17 +1,10 @@
 .App {
   text-align: center;
 }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-.green{
-  color: green;
-
-}
-.red{
-  color: red;
-  /* background-color: red; */
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -46,5 +39,4 @@
 
 button {
   font-size: calc(10px + 2vmin);
-
 }

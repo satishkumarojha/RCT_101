@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-
+import style from './Counter.module.css'
 export const Counter = ({value}) => {
     const [count,setCount] = useState(value);
     const handleChange = (val)=>{
