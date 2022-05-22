@@ -1,0 +1,10 @@
+{
+    "username":"satish",
+    "location":
+        {
+            "city":"Pune",
+            "state":"Maharastra",
+            "country":"India"
+        }
+    
+}

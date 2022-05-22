@@ -1,0 +1,161 @@
+[
+    {
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Dhakad Empire",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.4",
+      "deliveryTimings": "33 MINS",
+      "costfortwo": 700,
+      "offer": ["20% off", "Use TRYNEW"],
+      "id":1
+    },
+    {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name": "Lunch Box",
+        "category": [
+          "Chinese",
+          "Italian",
+          "Thai"
+        ],
+        "rating": "4.1",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 200,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":2
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+        "name": "The Hungry Hippe",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "5",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 900,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":3
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name": "Food Box",
+        "category": [
+          "South India",
+          "Tamil",
+          "Chinese",
+          "Jumbo Combo",
+          "Beverages"
+        ],
+        "rating": "4.5",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 300,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":4
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name": "Guru Kripa",
+        "category": [
+          "East India",
+          "Odisha",
+          "Mirchi Masala",
+          "Bambo Biriyani",
+          "Beverages"
+        ],
+        "rating": "4.3",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 700,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":5
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name": "Desert Master",
+        "category": [
+          "Arab",
+          "Arabian",
+          "Chinese",
+          "Italian Combo",
+          "Beverages"
+        ],
+        "rating": "1.2",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 120,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":6
+      }
+      ,
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+        "name": "Chaitanya Parathas",
+        "category": [
+          "Japnees",
+          "Starter",
+          "Chinese",
+          "Vegie Tandoor",
+          "Beverages"
+        ],
+        "rating": "2",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 150,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":7
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant8.jpeg",
+        "name": "Hot Piper",
+        "category": [
+          "North India",
+          "Rajasthani",
+          "Chinese",
+          "Hot Desert",
+          "Beverages"
+        ],
+        "rating": "4.5",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 2000,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":8
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant9.jpeg",
+        "name": "Raju Bhai",
+        "category": [
+          "West India",
+          "Tasty Indian",
+          "Hot chilies",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "3",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 20,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":9
+      },
+      {
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant10.jpeg",
+        "name": "Yashika Palace",
+        "category": [
+          "North India",
+          "Hariyanvi",
+          "Gym Freak",
+          "Vegie Combo",
+          "Beverages"
+        ],
+        "rating": "4",
+        "deliveryTimings": "33 MINS",
+        "costfortwo": 100,
+        "offer": ["20% off", "Use TRYNEW"],
+        "id":10
+      }
+  ]
