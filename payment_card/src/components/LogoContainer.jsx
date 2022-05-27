@@ -1,7 +1,10 @@
 import React from 'react'
-
-export const LogoContainer = () => {
+import Styles from "./LogoConatiner.module.css";
+export const LogoContainer = ({date,logo,color}) => {
   return (
-    <div>LogoContainer</div>
+    <div className={`${Styles.logo_container} ${color=="golden"?Styles.golden:Styles.grey}`}>
+        <h5>{date}</h5>
+       <img src={logo} alt="" />
+    </div>
   )
 }
