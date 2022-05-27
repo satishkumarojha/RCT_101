@@ -5,7 +5,7 @@
         "heading":"Amazon Gift Pay",
         "device":"Desktop-Mobile",
         "color":"golden",
-        "arrow":""
+        "arrow":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/Arrow.png"
     },
     {
         "date":"17/sep/2020",
@@ -13,7 +13,7 @@
         "heading":"Apple Gift Payment",
         "device":"MacOs-Mobile",
         "color":"grey",
-        "arrow":""
+        "arrow":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/Arrow.png"
     }
     
     
