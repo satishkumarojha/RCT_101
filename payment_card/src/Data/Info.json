@@ -3,7 +3,7 @@
         "date":"28/10/2020",
         "logo":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/amazon.png",
         "heading":"Amazon Gift Pay",
-        "device":"Desktop-Mobile",
+        "device":"Desktop - Mobile",
         "color":"golden",
         "arrow":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/Arrow.png"
     },
@@ -11,9 +11,9 @@
         "date":"17/sep/2020",
         "logo":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/apple.png",
         "heading":"Apple Gift Payment",
-        "device":"MacOs-Mobile",
+        "device":"MacOs - Mobile",
         "color":"grey",
-        "arrow":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/Arrow.png"
+        "arrow":"https://raw.githubusercontent.com/satishkumarojha/RCT_101/master/payment_card/src/assets/applearrow.png"
     }
     
     
