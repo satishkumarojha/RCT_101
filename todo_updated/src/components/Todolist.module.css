@@ -1,0 +1,11 @@
+.list{
+    width: 40%;
+    /* border: 1px solid green; */
+    margin: auto;
+    background-color: #CECECE;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 2%;
+}
