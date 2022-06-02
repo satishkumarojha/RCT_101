@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "table": [
+    {
+      "name": "Satish Ojha",
+      "age": "21",
+      "address": "A-42,jaynagar colony, pithampur, A-42,jaynagar , pithampur",
+      "department": "",
+      "salary": "20000",
+      "marital_state": true,
+      "id": 1
+    },
+    {
+      "name": "Satish Ojha",
+      "age": "21",
+      "address": "A-42,jaynagar colony, pithampur, A-42,jaynagar , pithampur",
+      "department": "",
+      "salary": "20000",
+      "marital_state": true,
+      "id": 2
+    },
+    {
+      "name": "ayush",
+      "age": "21",
+      "address": "gdfgdfgff",
+      "department": "Chemistry",
+      "salary": "125822",
+      "marital_state": true,
+      "id": 3
+    },
+    {
+      "name": "nishut",
+      "age": "23",
+      "address": "bbsr",
+      "department": "Maths",
+      "salary": "1000000000000000000",
+      "marital_state": true,
+      "id": 4
+    },
+    {
+      "name": "shaqib",
+      "age": "45",
+      "address": "bhopal",
+      "department": "",
+      "salary": "9000000",
+      "marital_state": false,
+      "id": 5
+    }
+  ]
+}

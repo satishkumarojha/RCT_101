@@ -1,0 +1,16 @@
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 85%;
+    margin: auto;
+}
+.table{
+    margin-top: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
