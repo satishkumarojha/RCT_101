@@ -12,8 +12,6 @@ export const reducer = (state = init,action)=>{
             return {...state}
         }
         case "add_count":{
-            // console.log(typeof(state.counter));
-            // console.log(typeof(action.payload));
             state.counter+=action.payload;
             return {...state}
         }

@@ -5,8 +5,8 @@ import { useDispatch, useSelector } from 'react-redux'
 import { add, dec, div, inc, mult, sub } from './store/action';
  
 function App() {
-  let dispatch = useDispatch();
-  let counter = useSelector((state)=>state.counter);
+  const dispatch = useDispatch();
+  const counter = useSelector((state)=>state.counter);
   const[xvalue,setXvalue] = useState(0);
   return (
     <div className="App">
